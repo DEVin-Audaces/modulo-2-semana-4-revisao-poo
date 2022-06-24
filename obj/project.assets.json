@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vitor Lima\\Projetos\\DevInHouse\\Semana4\\Revisao\\Revisao.csproj",
+      "projectUniqueName": "C:\\Users\\Vitor Lima\\Projetos\\DevInHouse\\Semana4\\modulo-2-semana-4-revisao-poo\\Revisao.csproj",
       "projectName": "Revisao",
-      "projectPath": "C:\\Users\\Vitor Lima\\Projetos\\DevInHouse\\Semana4\\Revisao\\Revisao.csproj",
+      "projectPath": "C:\\Users\\Vitor Lima\\Projetos\\DevInHouse\\Semana4\\modulo-2-semana-4-revisao-poo\\Revisao.csproj",
       "packagesPath": "C:\\Users\\Vitor Lima\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vitor Lima\\Projetos\\DevInHouse\\Semana4\\Revisao\\obj\\",
+      "outputPath": "C:\\Users\\Vitor Lima\\Projetos\\DevInHouse\\Semana4\\modulo-2-semana-4-revisao-poo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

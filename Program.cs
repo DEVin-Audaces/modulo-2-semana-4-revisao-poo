@@ -1,4 +1,5 @@
 ﻿using System;
+using Revisao.MetodosDeExtensao;
 using Revisao.ModificadoresDeAcesso;
 using Revisao.Polimorfismo;
 
@@ -8,7 +9,7 @@ namespace Revisao
     {
         static void Main(string[] args)
         {
-            TestePolimorfismo.Iniciar();
+            TesteMetodosDeExtensao.IniciarTeste();
         }
     }
 }
